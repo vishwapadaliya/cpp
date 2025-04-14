@@ -1,11 +1,3 @@
-/*
-==============================================
-    PROGRAM: VMart Billing System
-    AIM: To manage a simple product billing system
-    DEVELOPER:vishwa padaliya
-==============================================
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <conio.h>
