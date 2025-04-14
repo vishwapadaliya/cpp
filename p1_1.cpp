@@ -1,12 +1,3 @@
-/*
-==============================================
-    PROGRAM: Simple Bank Account Management System
-    AIM: To perform basic banking operations like deposit, withdraw, and check balance.
-    DEVELOPER:vishwa padaliya
-    LAST UPDATED: March 12, 2025
-==============================================
-*/
-
 #include <iostream>
 using namespace std;
 
